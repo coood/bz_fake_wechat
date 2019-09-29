@@ -17,7 +17,7 @@ A new Flutter plugin.
   s.dependency 'Flutter'
   # 微信
   s.static_framework = true
-  s.dependency 'WechatOpenSDK', '~> 1.8.4'
+  s.dependency 'WechatOpenSDK184'
 
   s.ios.deployment_target = '8.0'
 end
